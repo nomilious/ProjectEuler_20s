@@ -1,4 +1,4 @@
-# ProjectEuler_20s
+# ProjectEuler_20
 My solution for [#20](https://projecteuler.net/problem=20) task from https://projecteuler.net
 
 <br/>
