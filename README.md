@@ -1,2 +1,2 @@
 # ProjectEuler_20s
-My solution for 20-29 tasks on https://projecteuler.net
+My solution for #20 task on https://projecteuler.net
